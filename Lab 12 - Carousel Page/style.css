@@ -1,0 +1,26 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://i.pinimg.com/originals/e5/b9/81/e5b98110fcd62d6ebe0e636262170175.jpg");
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://i.pinimg.com/originals/3d/25/1d/3d251db09f1f52c4bb5c16e4dd3de8cb.jpg");
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://wallpapers-clan.com/wp-content/uploads/2022/08/funny-dog-pfp-10.jpg");
+}
+
+.bg-img1,
+.bg-img2,
+.bg-img3 {
+  height: 80vh;
+}
